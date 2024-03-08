@@ -59,7 +59,9 @@
      ![输入图片说明](image.png)
 -   3.4 工程下输入 
 
-   ` mvn clean install package '-Dmaven.test.skip=true`
+   ` mvn clean install package '-Dmaven.test.skip=true'`
+
+   
 -   3.5 启动项目，如图
     ![输入图片说明](1702544439568.jpg)
 
